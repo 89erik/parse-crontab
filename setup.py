@@ -9,13 +9,13 @@ except:
     long_description = ''
 
 setup(
-    name='crontab',
+    name='parse_crontab',
     version='0.22.9',
     description='Parse and use crontab schedules in Python',
     author='Josiah Carlson',
     author_email='josiah.carlson@gmail.com',
     url='https://github.com/josiahcarlson/parse-crontab',
-    packages=['crontab'],
+    packages=['parse_crontab'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)',
